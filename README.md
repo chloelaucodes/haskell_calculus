@@ -1,2 +1,2 @@
-# haskell_turtle_graphics
-An Implementation of Turtle Graphics in Haskell.
+# haskell_calculus
+An Implementation of Calculus in Haskell.
